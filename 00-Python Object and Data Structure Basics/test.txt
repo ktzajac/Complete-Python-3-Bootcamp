@@ -1,2 +1,6 @@
-First Line
-Second Line
+Hello, this is a quick test file.
+This is my first line or second rather
+This is the third line
+
+This is text being appended to test.txt
+And another line here.
